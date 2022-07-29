@@ -1,0 +1,3 @@
+a. <directory>${project.basedir}/target</directory>
+b. <outputDirectory>${project.build.directory}/classes</outputDirectory>
+c. <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
