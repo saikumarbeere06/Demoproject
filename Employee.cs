@@ -1,3 +1,7 @@
+groovyc –cp “spock-core-2.2-M3-groovy-4.0.jar” ReverseStringSpec.groovy
+
+groovy –cp “spock-core-2.2-M3-groovy-4.0.jar” ReverseStringSpec
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
